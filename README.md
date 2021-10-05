@@ -1,2 +1,2 @@
 # instagramclone
-Kodluyoruz Odev 2 
+Kodluyoruz Bootstrap Odevi - 2 
